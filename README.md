@@ -1,2 +1,2 @@
-# streamlitbolla
-streamlit apps
+# stream lit apps for python and EDA
+
