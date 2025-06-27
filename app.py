@@ -1,4 +1,4 @@
 import streamlit as st
-st.title('Tharun erripuvvu')
+st.title('Tharun')
 st.header('stream')
-st.text_area('yes he is a big flower')
+st.text_area('yes')
